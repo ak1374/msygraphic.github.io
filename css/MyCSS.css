@@ -1,0 +1,24 @@
+.my-striped {
+    background-image: repeating-linear-gradient(-45deg, whitesmoke, whitesmoke 0.5vw, #71c8dc 0.6vw);
+}
+
+.my-form {
+    background-color: whitesmoke;
+    position: relative;
+    left: 0px;
+    top: -5vw;
+    z-index: 1;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.lobster {
+    font-family: lobster;
+    font-size: 5.9vw;
+}
+
+.my-margin-zero {
+    margin: 0px;
+}
